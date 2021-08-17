@@ -4,7 +4,7 @@ export const InitialQuote = styled.ul`
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0 210px;
+  width: min(60%, 1200px);
   list-style: none;
   margin: 110px auto;
   font: 500 36px 'Raleway', sans-serif;

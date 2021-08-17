@@ -5,7 +5,7 @@ import { FiRotateCw } from 'react-icons/fi'
 const DivButton = styled.div`
   display: flex;
   justify-content: flex-end;
-  padding-right: 200px;
+  width: min(95%, 1400px);
 `
 
 const RandomButtonStyled = styled.button`

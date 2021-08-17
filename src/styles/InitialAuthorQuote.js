@@ -5,7 +5,8 @@ export const DivAuthor = styled.div`
   align-items: left;
   justify-content: left;
   flex-direction: column;
-  padding: 0 210px;
+  width: min(60%, 1200px);
+  margin: 0 auto;
 
   section {
     border-radius: 1px;
